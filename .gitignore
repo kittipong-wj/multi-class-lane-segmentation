@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+
+# Intermediate runs & results
+result/
+runs/
+model_backup.pt
+Dataset/
