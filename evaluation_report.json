@@ -1,0 +1,1761 @@
+{
+  "total_test_samples": 350,
+  "detection_threshold": 0.6,
+  "positive_detections": 350,
+  "detection_rate_pct": 100.0,
+  "average_iou_detected_only": 0.9667,
+  "overall_mean_iou": 0.9667,
+  "mAP": 1.0,
+  "samples": [
+    {
+      "sample": "frame_00498",
+      "iou": 0.97,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00569",
+      "iou": 0.9689,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00897",
+      "iou": 0.9687,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00292",
+      "iou": 0.9739,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00465",
+      "iou": 0.9753,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00988",
+      "iou": 0.9665,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00399",
+      "iou": 0.9729,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00002",
+      "iou": 0.967,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00886",
+      "iou": 0.9726,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00168",
+      "iou": 0.9682,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00725",
+      "iou": 0.9689,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00869",
+      "iou": 0.9694,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00218",
+      "iou": 0.9724,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00492",
+      "iou": 0.9754,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00715",
+      "iou": 0.9704,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00751",
+      "iou": 0.9754,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00170",
+      "iou": 0.9687,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00242",
+      "iou": 0.9705,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00980",
+      "iou": 0.9627,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00015",
+      "iou": 0.9675,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00553",
+      "iou": 0.9793,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00667",
+      "iou": 0.9699,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00051",
+      "iou": 0.9652,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00989",
+      "iou": 0.9691,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00563",
+      "iou": 0.9624,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00453",
+      "iou": 0.9682,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00077",
+      "iou": 0.9704,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00255",
+      "iou": 0.9697,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00912",
+      "iou": 0.9729,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00717",
+      "iou": 0.9705,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00187",
+      "iou": 0.9711,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00829",
+      "iou": 0.9651,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00143",
+      "iou": 0.9693,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00966",
+      "iou": 0.9608,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00814",
+      "iou": 0.9707,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00705",
+      "iou": 0.9675,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00923",
+      "iou": 0.9138,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00254",
+      "iou": 0.9679,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00111",
+      "iou": 0.9655,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00347",
+      "iou": 0.9722,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00412",
+      "iou": 0.9708,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00062",
+      "iou": 0.9661,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00100",
+      "iou": 0.971,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00661",
+      "iou": 0.9695,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00669",
+      "iou": 0.9688,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00689",
+      "iou": 0.9729,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00055",
+      "iou": 0.967,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00478",
+      "iou": 0.969,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00420",
+      "iou": 0.9712,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00755",
+      "iou": 0.976,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00362",
+      "iou": 0.9692,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00441",
+      "iou": 0.9716,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00674",
+      "iou": 0.9679,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00946",
+      "iou": 0.9646,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00096",
+      "iou": 0.9665,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00194",
+      "iou": 0.9719,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00416",
+      "iou": 0.9714,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00709",
+      "iou": 0.9696,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00248",
+      "iou": 0.9633,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00484",
+      "iou": 0.9707,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00590",
+      "iou": 0.9718,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00584",
+      "iou": 0.9753,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00135",
+      "iou": 0.9694,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00753",
+      "iou": 0.9748,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00219",
+      "iou": 0.9701,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00767",
+      "iou": 0.9709,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00685",
+      "iou": 0.9742,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00285",
+      "iou": 0.9733,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00243",
+      "iou": 0.9689,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00526",
+      "iou": 0.9717,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00728",
+      "iou": 0.9715,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00338",
+      "iou": 0.9738,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00872",
+      "iou": 0.9701,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00069",
+      "iou": 0.966,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00874",
+      "iou": 0.9742,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00060",
+      "iou": 0.9665,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00646",
+      "iou": 0.9687,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00724",
+      "iou": 0.9744,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00072",
+      "iou": 0.9707,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00007",
+      "iou": 0.9682,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00967",
+      "iou": 0.9554,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00734",
+      "iou": 0.9675,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00235",
+      "iou": 0.9732,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00567",
+      "iou": 0.8757,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00602",
+      "iou": 0.9739,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00021",
+      "iou": 0.9666,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00346",
+      "iou": 0.9716,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00827",
+      "iou": 0.733,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00230",
+      "iou": 0.972,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00253",
+      "iou": 0.973,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00123",
+      "iou": 0.9691,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00462",
+      "iou": 0.9642,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00529",
+      "iou": 0.9713,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00448",
+      "iou": 0.9709,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00831",
+      "iou": 0.9725,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00971",
+      "iou": 0.9558,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00687",
+      "iou": 0.969,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00844",
+      "iou": 0.9664,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00319",
+      "iou": 0.9762,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00730",
+      "iou": 0.9695,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00205",
+      "iou": 0.9709,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00706",
+      "iou": 0.9676,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00938",
+      "iou": 0.9625,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00784",
+      "iou": 0.968,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00866",
+      "iou": 0.9743,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00433",
+      "iou": 0.9694,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00621",
+      "iou": 0.9713,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00540",
+      "iou": 0.9683,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00855",
+      "iou": 0.9697,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00169",
+      "iou": 0.9671,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00562",
+      "iou": 0.9695,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00486",
+      "iou": 0.9738,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00675",
+      "iou": 0.968,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00131",
+      "iou": 0.9671,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00128",
+      "iou": 0.9658,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00545",
+      "iou": 0.9758,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00070",
+      "iou": 0.9661,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00497",
+      "iou": 0.9669,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00749",
+      "iou": 0.9732,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00087",
+      "iou": 0.9663,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00933",
+      "iou": 0.9627,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00865",
+      "iou": 0.974,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00246",
+      "iou": 0.9648,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00059",
+      "iou": 0.9649,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00245",
+      "iou": 0.9618,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00314",
+      "iou": 0.9746,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00371",
+      "iou": 0.967,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00808",
+      "iou": 0.9748,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00019",
+      "iou": 0.9659,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00500",
+      "iou": 0.9674,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00331",
+      "iou": 0.9726,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00613",
+      "iou": 0.9751,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00000",
+      "iou": 0.9664,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00543",
+      "iou": 0.9709,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00552",
+      "iou": 0.9702,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00165",
+      "iou": 0.9567,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00798",
+      "iou": 0.968,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00382",
+      "iou": 0.9735,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00834",
+      "iou": 0.9727,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00973",
+      "iou": 0.9542,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00894",
+      "iou": 0.9688,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00796",
+      "iou": 0.9709,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00999",
+      "iou": 0.9677,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00305",
+      "iou": 0.9731,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00640",
+      "iou": 0.9728,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00108",
+      "iou": 0.9671,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00519",
+      "iou": 0.9723,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00182",
+      "iou": 0.9705,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00780",
+      "iou": 0.9677,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00512",
+      "iou": 0.9704,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00930",
+      "iou": 0.9524,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00736",
+      "iou": 0.9668,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00739",
+      "iou": 0.9709,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00003",
+      "iou": 0.966,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00908",
+      "iou": 0.973,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00161",
+      "iou": 0.9698,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00445",
+      "iou": 0.968,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00931",
+      "iou": 0.9618,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00998",
+      "iou": 0.9692,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00955",
+      "iou": 0.9684,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00656",
+      "iou": 0.973,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00787",
+      "iou": 0.9769,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00899",
+      "iou": 0.9691,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00768",
+      "iou": 0.9733,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00936",
+      "iou": 0.9521,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00698",
+      "iou": 0.9704,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00117",
+      "iou": 0.9697,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00738",
+      "iou": 0.971,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00830",
+      "iou": 0.9708,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00011",
+      "iou": 0.9725,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00566",
+      "iou": 0.9093,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00257",
+      "iou": 0.9703,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00541",
+      "iou": 0.9706,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00479",
+      "iou": 0.9698,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00963",
+      "iou": 0.9632,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00390",
+      "iou": 0.9785,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00394",
+      "iou": 0.9715,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00065",
+      "iou": 0.9661,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00610",
+      "iou": 0.9732,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00956",
+      "iou": 0.9691,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00696",
+      "iou": 0.9701,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00811",
+      "iou": 0.9763,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00958",
+      "iou": 0.9661,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00642",
+      "iou": 0.9746,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00156",
+      "iou": 0.9687,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00112",
+      "iou": 0.9659,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00048",
+      "iou": 0.9662,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00773",
+      "iou": 0.9676,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00093",
+      "iou": 0.9685,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00505",
+      "iou": 0.9749,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00521",
+      "iou": 0.9701,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00141",
+      "iou": 0.9684,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00881",
+      "iou": 0.9734,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00925",
+      "iou": 0.8855,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00408",
+      "iou": 0.9685,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00597",
+      "iou": 0.9705,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00438",
+      "iou": 0.9722,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00598",
+      "iou": 0.9735,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00764",
+      "iou": 0.9687,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00269",
+      "iou": 0.9719,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00551",
+      "iou": 0.9714,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00974",
+      "iou": 0.9624,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00762",
+      "iou": 0.9712,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00252",
+      "iou": 0.9713,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00992",
+      "iou": 0.9706,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00271",
+      "iou": 0.9678,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00146",
+      "iou": 0.9677,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00469",
+      "iou": 0.9758,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00658",
+      "iou": 0.9692,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00405",
+      "iou": 0.9764,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00511",
+      "iou": 0.9727,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00671",
+      "iou": 0.964,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00217",
+      "iou": 0.9718,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00322",
+      "iou": 0.9722,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00735",
+      "iou": 0.9691,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00580",
+      "iou": 0.9652,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00216",
+      "iou": 0.9695,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00067",
+      "iou": 0.9672,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00274",
+      "iou": 0.9668,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00410",
+      "iou": 0.971,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00323",
+      "iou": 0.9741,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00824",
+      "iou": 0.9625,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00982",
+      "iou": 0.9679,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00841",
+      "iou": 0.9738,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00234",
+      "iou": 0.9741,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00057",
+      "iou": 0.9655,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00794",
+      "iou": 0.9727,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00786",
+      "iou": 0.9737,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00863",
+      "iou": 0.973,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00332",
+      "iou": 0.9699,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00701",
+      "iou": 0.9699,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00224",
+      "iou": 0.9707,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00570",
+      "iou": 0.9708,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00704",
+      "iou": 0.9736,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00655",
+      "iou": 0.9683,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00276",
+      "iou": 0.9723,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00388",
+      "iou": 0.9704,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00473",
+      "iou": 0.9672,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00167",
+      "iou": 0.9694,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00994",
+      "iou": 0.9607,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00746",
+      "iou": 0.9685,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00546",
+      "iou": 0.9786,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00175",
+      "iou": 0.9763,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00907",
+      "iou": 0.9647,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00623",
+      "iou": 0.9707,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00073",
+      "iou": 0.9668,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00663",
+      "iou": 0.9713,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00699",
+      "iou": 0.9691,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00970",
+      "iou": 0.9554,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00273",
+      "iou": 0.9707,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00686",
+      "iou": 0.9666,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00214",
+      "iou": 0.9731,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00363",
+      "iou": 0.9688,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00379",
+      "iou": 0.9725,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00166",
+      "iou": 0.9672,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00373",
+      "iou": 0.973,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00854",
+      "iou": 0.9759,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00650",
+      "iou": 0.9718,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00464",
+      "iou": 0.9702,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00954",
+      "iou": 0.9676,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00947",
+      "iou": 0.9633,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00103",
+      "iou": 0.9689,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00887",
+      "iou": 0.9719,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00978",
+      "iou": 0.9616,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00875",
+      "iou": 0.9732,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00081",
+      "iou": 0.9674,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00296",
+      "iou": 0.9705,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00791",
+      "iou": 0.9706,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00233",
+      "iou": 0.974,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00677",
+      "iou": 0.9707,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00046",
+      "iou": 0.9653,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00071",
+      "iou": 0.9653,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00721",
+      "iou": 0.9649,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00196",
+      "iou": 0.9702,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00591",
+      "iou": 0.9748,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00370",
+      "iou": 0.9699,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00882",
+      "iou": 0.975,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00906",
+      "iou": 0.9688,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00633",
+      "iou": 0.9791,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00643",
+      "iou": 0.9684,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00849",
+      "iou": 0.9713,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00300",
+      "iou": 0.9734,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00565",
+      "iou": 0.9379,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00080",
+      "iou": 0.9669,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00387",
+      "iou": 0.9698,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00127",
+      "iou": 0.9667,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00549",
+      "iou": 0.9701,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00470",
+      "iou": 0.9793,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00747",
+      "iou": 0.9669,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00044",
+      "iou": 0.9689,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00826",
+      "iou": 0.7819,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00270",
+      "iou": 0.9665,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00618",
+      "iou": 0.9738,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00352",
+      "iou": 0.9749,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00867",
+      "iou": 0.9724,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00367",
+      "iou": 0.9674,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00099",
+      "iou": 0.9676,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00389",
+      "iou": 0.967,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00094",
+      "iou": 0.9685,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00990",
+      "iou": 0.9472,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00344",
+      "iou": 0.9718,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00781",
+      "iou": 0.9672,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00220",
+      "iou": 0.9716,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00159",
+      "iou": 0.9677,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00964",
+      "iou": 0.9626,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00348",
+      "iou": 0.9698,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00983",
+      "iou": 0.9691,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00714",
+      "iou": 0.9678,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00163",
+      "iou": 0.9741,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00825",
+      "iou": 0.8696,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00777",
+      "iou": 0.9689,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00006",
+      "iou": 0.9652,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00890",
+      "iou": 0.967,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00828",
+      "iou": 0.8103,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00284",
+      "iou": 0.9719,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00603",
+      "iou": 0.9708,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00459",
+      "iou": 0.9804,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00225",
+      "iou": 0.9717,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00429",
+      "iou": 0.9708,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00986",
+      "iou": 0.9675,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00718",
+      "iou": 0.9717,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00665",
+      "iou": 0.9691,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00733",
+      "iou": 0.969,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00203",
+      "iou": 0.9734,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00574",
+      "iou": 0.9716,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00027",
+      "iou": 0.9649,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00616",
+      "iou": 0.9717,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00517",
+      "iou": 0.969,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00238",
+      "iou": 0.9706,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00223",
+      "iou": 0.9727,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00095",
+      "iou": 0.9707,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00030",
+      "iou": 0.9647,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00032",
+      "iou": 0.9655,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00432",
+      "iou": 0.9687,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00604",
+      "iou": 0.973,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00089",
+      "iou": 0.9666,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00558",
+      "iou": 0.9699,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00913",
+      "iou": 0.9706,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00758",
+      "iou": 0.9718,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00692",
+      "iou": 0.9733,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00104",
+      "iou": 0.9651,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00754",
+      "iou": 0.9711,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00142",
+      "iou": 0.9696,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00228",
+      "iou": 0.9694,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00250",
+      "iou": 0.9654,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00281",
+      "iou": 0.9727,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00759",
+      "iou": 0.9757,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00025",
+      "iou": 0.9659,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00114",
+      "iou": 0.9692,
+      "detected_flag": "Yes"
+    },
+    {
+      "sample": "frame_00654",
+      "iou": 0.9687,
+      "detected_flag": "Yes"
+    }
+  ]
+}
